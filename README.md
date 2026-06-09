@@ -21,9 +21,8 @@ Instead of switching between different AI platforms, users can interact with mul
 
 ## 📸 Preview
 
-<img width="473" height="597" alt="image" src="https://github.com/user-attachments/assets/d8de83ee-0bc7-48a8-ba23-c4f4471ed592" />
-<img width="473" height="597" alt="image" src="https://github.com/user-attachments/assets/6357a0f1-4f1e-4cac-b875-5c3b253277c0" />
-
+<img width="421" height="559" alt="image" src="https://github.com/user-attachments/assets/d8de83ee-0bc7-48a8-ba23-c4f4471ed592" />
+<img width="421" height="559" alt="image" src="https://github.com/user-attachments/assets/6357a0f1-4f1e-4cac-b875-5c3b253277c0" />
 
 ## 🔮 Future Plans
 
