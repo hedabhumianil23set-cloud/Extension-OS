@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Extension OS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Toggle Button -->
+<div class="menu-btn" id="menu-btn">☰</div>
+
+<div class="app">
+
+  <!-- Sidebar -->
+  <div class="sidebar" id="sidebar">
+    <h2>⚡ Extension</h2>
+    <ul>
+      <li class="active">Dashboard</li>
+      <li>AI Models</li>
+      <li>Prompt Lab</li>
+      <li>Settings</li>
+    </ul>
+  </div>
+
+  <!-- Main -->
+  <div class="main">
+
+    <h1>🚀 Extension OS</h1>
+
+    <textarea id="prompt" placeholder="Ask anything..."></textarea>
+
+    <div class="models">
+      <button id="chatgpt">🤖 ChatGPT</button>
+      <button id="gemini">✨ Gemini</button>
+      <button id="claude">🧠 Claude</button>
+    </div>
+
+    <button class="submit" id="generate-btn">⚡ Generate</button>
+
+    <div class="responses">
+
+      <div class="card">
+        <h3>🤖 ChatGPT</h3>
+        <p id="chatgpt-res"></p>
+      </div>
+
+      <div class="card">
+        <h3>✨ Gemini</h3>
+        <p id="gemini-res"></p>
+      </div>
+
+      <div class="card">
+        <h3>🧠 Claude</h3>
+        <p id="claude-res"></p>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

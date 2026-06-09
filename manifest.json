@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Extenshion OS",
+  "version": "1.0",
+  "description": "All AI tools in one place",
+  "action": {
+    "default_popup": "client/index.html"
+  }
+}
